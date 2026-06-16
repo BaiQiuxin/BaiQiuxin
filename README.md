@@ -2,7 +2,7 @@
 
 ### A developer eager to learn
 
-<p align="left"> <a href="https://twitter.com/@BQiuxin51730" target="blank"><img src="https://img.shields.io/twitter/follow/@BQiuxin51730?logo=twitter&style=for-the-badge" alt="@BQiuxin51730" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@BQiuxin51730" target="blank"><img src="https://img.shields.io/twitter/follow/BQiuxin51730?logo=twitter&style=for-the-badge" alt="@BQiuxin51730" /></a> </p>
 
 - 🌱 I'm currently learning **C & Python，planning to explore Java, C++, TypeScript and so on in the future**
 
